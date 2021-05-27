@@ -5,7 +5,7 @@
 Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could.</p>
 <p>Speech to Text option.</p>
 <p>Can edit and save the existing notes.</p>
-<p>To see the demo <a href="http://take-notes.vercel.app/">visit here</a></p>
+<p>To see the demo <a href="http://take-notes.vercel.app/" target="_blank">visit here</a></p>
 <p>And we can add many new features like:</p>
 <ol>
 <li>Add Title</li> 
